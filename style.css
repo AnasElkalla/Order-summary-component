@@ -21,7 +21,7 @@
 
 body {
   background: url("./images/pattern-background-desktop.svg") no-repeat center
-      center/cover,
+      center/100%,
     var(--blue-100);
   display: flex;
   justify-content: center;
@@ -152,4 +152,5 @@ section {
     }
   }
 }
+
 
